@@ -1,0 +1,16 @@
+// body{
+//     background-color: yellow;
+// }
+
+.test{
+    text-align: center;
+    &__box{
+        margin: 0;
+    }
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 1px;
+}
